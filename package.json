@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seikho/ts-scaffold.git"
+    "url": "git+https://github.com/applearrow/ts-scaffold.git"
   },
   "keywords": [
     "typescript"
@@ -17,9 +17,9 @@
   "author": "Carl Winkler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seikho/ts-scaffold/issues"
+    "url": "https://github.com/applearrow/ts-scaffold/issues"
   },
-  "homepage": "https://github.com/seikho/ts-scaffold#readme",
+  "homepage": "https://github.com/applearrow/ts-scaffold#readme",
   "devDependencies": {
     "typescript": "1.6.2"
   }
